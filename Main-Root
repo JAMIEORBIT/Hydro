@@ -1,0 +1,5 @@
+HydroSploit Hub MainRoot
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JAMIEORBIT/Hydro/main/ExeLog.lua'))("") --Execution Log
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JAMIEORBIT/Hydro/main/HydroSploitV1-Key-Working.txt'))("") --Script
